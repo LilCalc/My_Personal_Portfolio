@@ -1,0 +1,12 @@
+body {
+    background-color: coral;
+}
+header {
+    text-align: center;
+}
+#Button1 , #Button2 , #Button3{
+    background-color: aquamarine;
+    padding: 15px 32px;
+    font-size: larger;
+    font-weight: bold;
+}
